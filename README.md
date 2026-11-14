@@ -220,4 +220,4 @@ Rockstar Games Launcher is available as a **full free version**, providing all f
 Download Rockstar Games Launcher now and elevate your gaming experience with all your favorite titles at your fingertips!
 
 ---
-**Last updated:** 2026-11-13 18:22:35 UTC
+**Last updated:** 2026-11-14 00:10:24 UTC
